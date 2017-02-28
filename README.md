@@ -6,6 +6,8 @@
  
  * 将访问域名移至配置文件（应对切换submail api 域名切换问题）
  
+ * 使用log4j 2作为日志框架
+ 
  * mail 包为邮件相关api接口：send、xsend、subscribe、unsubscribe
  
  * sms 包为短信相关api接口：xsend、subscribe、unsubscribe
